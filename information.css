@@ -42,8 +42,9 @@
 {
   background-color:tomato;
   padding: 5px;
-  height: 200;
+  height: auto;
   width: 1000px;
+  font-size: 1.25rem;
 }
 .box
   {

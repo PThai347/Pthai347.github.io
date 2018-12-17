@@ -1,17 +1,12 @@
-html
+.html
 {
 font-size: 12px;
 font-family:"Times New Roman", Times, serif;
 }
-}
-article
+
+.article
 {
-font-size:1.2rem;
-}
-.aside
-{
-width: 500px;
-height: auto;
+font-size:1.5rem;
 }
 main
 {
