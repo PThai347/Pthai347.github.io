@@ -1,0 +1,117 @@
+.container
+  {
+    display: flex;
+    width: auto;
+    margin: 0 auto;
+    padding: 5px;
+    height: auto;
+    justify-content: space-between;
+  }
+.nav
+{
+  display: flex;
+  width: auto;
+  margin: 0 auto ;
+  padding: 5px;
+  height: 50px;
+  justify-content: space-between;
+  flex-direction: row;
+  text-align: center;
+}
+.postexcerpt
+{
+  display: flex;
+  background-color:lightblue;
+  padding: 5px;
+  height: auto;
+  width: 1000px;
+  font-size: 1.2rem;
+}
+
+.data
+{
+  background-color:tomato;
+  padding: 5px;
+  height: auto;
+  width: 1000px;
+  font-size: 1.25rem;
+}
+.box
+  {
+    flex: 1;
+    background-color: tomato;
+    padding: 5px;
+    line-height: 35px;
+    height:auto;
+  }
+  .box1
+  {
+    flex: 1;
+    background-color: blue;
+    height: auto;
+  }
+  .box2
+  {
+    flex: 1;
+    height: auto;
+    vertical-align: middle;
+  }
+  .box3
+  {
+    flex: 1;
+    background-color: lightblue;
+    vertical-align: middle;
+  }
+  .box4
+  {
+    flex: 1;
+    background-color: red;
+    vertical-align: middle;
+  }
+  .box5
+  {
+    flex: 1;
+    background-color: lightblue;
+    vertical-align: middle;
+  }
+  .box6
+  {
+    flex: 1;
+    background-color: red;
+    vertical-align: middle;
+  }
+  .box7
+  {
+    flex: 1;
+    background-color: lightblue;
+    vertical-align: middle;
+    height: auto;
+    font-size: 0.7rem;
+  }
+  .box8
+  {
+    flex: 1;
+    background-color: red;
+    vertical-align: middle;
+    height:auto;
+  }
+  .box9
+  {
+    flex: 1;
+    background-color: lightblue;
+    vertical-align: middle;
+    height:auto;
+  }
+
+  .picture
+  {
+  width:200px;
+  height:250px;
+  padding: 5px;
+  }
+  .picture1
+  {
+  width:200px;
+  height:150px;
+  padding: 5px;
+  }
