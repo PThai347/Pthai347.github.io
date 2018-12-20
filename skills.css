@@ -1,12 +1,4 @@
-.container
-  {
-    display: flex;
-    width: auto;
-    margin: 0 auto;
-    padding: 5px;
-    height: auto;
-    justify-content: space-between;
-  }
+
 .nav
 {
   display: flex;

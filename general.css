@@ -19,3 +19,14 @@ main
    width:100%;
    height:100px;
 }
+.container
+  {
+    display: flex;
+    width: auto;
+    margin: 0 auto;
+    padding: 5px;
+    height: auto;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color:lightgreen;
+  }
